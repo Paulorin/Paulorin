@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - Java, Kotlin, Python
 - Maven, Gradle
 - PostgreSQL, MSSQL
-- Docker
-- OpenAPI/Swagger
 - Git, Linux
 - Android
 
