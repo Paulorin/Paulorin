@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - JUnit
 
 💻 My projects:
-- [Android Diabetes App](https://github.com/Paulorin/DiabetesApp/tree/main)
+- [Android Diabetes App - Kotlin, JetpackCompose, Room](https://github.com/Paulorin/DiabetesApp/tree/main)
 
 💬 Languages:
 - English B2/C1
