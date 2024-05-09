@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 💬 Languages:
 - English B2/C1
 
+📋 Current interests:
+- Expand my knowledge of Backend
+- Learn more about Frontend, Mobile develpment
+
 📫 How to reach me: 
 - Telegram - @paulrinch
 - Vk - @paulorin_ch
