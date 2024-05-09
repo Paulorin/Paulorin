@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 💻 My projects:
 - [Hackathon: TrasHack 2024](https://github.com/GreenCatsTeam/hackathon-2024)
-- [Random object Generator, Java](https://github.com/Paulorin/fieldsetter/tree/branch3)
+- [Random Object Generator, Java](https://github.com/Paulorin/fieldsetter/tree/branch3)
 - [Android Diabetes App, Kotlin](https://github.com/Paulorin/DiabetesApp/tree/main)
 
 💬 Languages:
