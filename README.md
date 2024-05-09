@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - [Random Object Generator, Java](https://github.com/Paulorin/fieldsetter/tree/branch3)
 - [DataStructures, Java](https://github.com/Paulorin/DataStructures)
 - [Android Diabetes App, Kotlin](https://github.com/Paulorin/DiabetesApp/tree/main)
+- [Graph Algorithms, C#](https://github.com/Paulorin/Graphs)
 
 📜 Certificates:
 - [Hackathon: TrasHack 3rd place, 2024](https://drive.google.com/file/d/1u8HM05gTOk3BY3IcNx9zufGMBd5HPOE8/view?usp=sharing)
