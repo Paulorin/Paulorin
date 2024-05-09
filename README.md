@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - Maven, Gradle
 - PostgreSQL, MSSQL
 - Docker
+- OpenAPI/Swagger
 - Git, Linux
 - Android
 
