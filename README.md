@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Android
 
 ☕︎ Java:
-- Spring(Core, Web, Boot)
+- Spring(Core, Web, Boot, Data JPA, Security)
 - Hibernate
 - JUnit
 
