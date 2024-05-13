@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - PostgreSQL, MSSQL
 - Git, Linux
 - Docker
+- Swagger/OpenAPI
 - Android
 
 ☕︎ Java:
