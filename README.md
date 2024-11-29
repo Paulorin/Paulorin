@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - JUnit
 
 💬 Languages:
-- English B2
+- English С1
 
 💻 Projects:
 - [Hackathon: TrasHack 2024, Spring](https://github.com/GreenCatsTeam/hackathon-2024)
